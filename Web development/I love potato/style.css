@@ -1,0 +1,33 @@
+h1{
+    color:red;
+    font-size: 100px;
+    text-align: center;
+}
+p{
+    color:blue;
+    text-align: center;
+}
+
+body{
+    background-color:aquamarine;
+}
+img{
+    background-color: aquamarine;
+    height: 200px;
+    
+}
+
+.fontSize{
+    font-size: 20px;
+}
+
+.fontFamily1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fontFamily2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#heading{
+    color: black;
+}
